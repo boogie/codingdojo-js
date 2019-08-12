@@ -1,0 +1,22 @@
+{
+  "name": "codingdojo",
+  "version": "1.0.0",
+  "description": "Skeleton for JavaScript Coding Dojo",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boogie/codingdojo-js.git"
+  },
+  "author": "Andras Barthazi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/boogie/codingdojo-js/issues"
+  },
+  "homepage": "https://github.com/boogie/codingdojo-js#readme",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
