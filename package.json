@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/boogie/codingdojo-js#readme",
   "devDependencies": {
-    "jest": "^24.8.0"
+    "jest": "^30.4.2"
   }
 }
